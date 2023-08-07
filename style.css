@@ -104,7 +104,8 @@ body{
     text-shadow: 2px 2px 4px black;
 }
 #historia{
-    height: 61vh;
+    height: 110vh;
+    background-color: wheat;
 }
 .linea{
     width: 20%;
