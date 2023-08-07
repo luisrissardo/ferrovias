@@ -1,0 +1,175 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: rgb(132, 0, 0);
+    color: whitesmoke;
+    position: fixed;
+    width: 100%;
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+}
+.li-menu{
+    margin-right: 20px;
+}
+.item-menu{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 50;
+    -font-family: sans-serif;
+}
+.search-bar {
+    display: flex;
+    align-items: center;
+    width: 13%;
+}
+.search-bar input[type="text"] {
+    padding: 5px 0px 5px 5px;
+    background-color: transparent;
+    border: 0;
+    margin-right: -10%;
+}
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-family: 'Raleway', sans-serif;
+}
+.logo{
+    width: 65%;
+}
+.logotipo{
+    width: 9%;
+    padding-left: 2%;
+}
+.tit-head{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fundoimagem{
+    background-image: url(img/Trem.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    border: 1px transparent solid;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+    height: 100vh;
+}
+.tittopo{
+    padding-top: 20%;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.linhas70{
+    width: 70%;
+}
+.inicio{
+    background-color: antiquewhite;
+    text-align: center;
+    border: 1px transparent solid;
+}
+.titdiv{
+    padding-top: 2%;
+}
+.coluna{
+    float: left;
+    text-align: center;
+}
+.dois{
+    width: 40%;
+}
+.txtdiv{
+    text-align: justify;
+    padding: 2% 10%;
+    font-size: 20px;
+}
+.imagem2{
+    background-image: url(img/trem2.jpg);
+    background-size: cover;
+    border: 1px transparent solid;
+    height: 100vh;
+}
+.titredut{
+    padding-top: 20%;
+    padding-left: 10%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+#historia{
+    height: 61vh;
+}
+.linea{
+    width: 20%;
+    border-color: white;
+    margin-right: 65%;
+}
+.predut{
+    padding-left: 20%;
+    text-shadow: 2px 2px 4px black;
+    color: white;
+}
+.link{
+    border: 1px red solid;
+    padding: 0.5% 1.5%;
+    margin-left: 21%;
+    color: white;
+    background-color: red;
+    margin-top: 1%;
+    text-decoration: none;
+    border-radius: 7px;
+}
+.nobr{
+    text-align: center;
+    border: 1px transparent solid;
+    background-color: antiquewhite;
+}
+.linhas60{
+    width: 60%;
+}
+.pjustificado{
+    text-align: justify;
+}
+.pdiv{
+    padding: 0% 15% 2% 15%;
+    font-size: 20px;
+}
+#inicio{
+    height: 100vh;
+}
+.videodiv{
+    text-align: center;
+    background-image: url(img/denis-chick-mHqIs22M2Kw-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80ch;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+    border: 1px transparent solid;
+}
+.divcentralizado{
+    text-align: center;
+}
+#densidade{
+    height: 100vh;
+}
+.final{
+    text-align: center;
+    background-color: aliceblue;
+}
+.predu{
+    padding-left: 20%;
+}
+.footer{
+    text-align: center;
+}
+#inimagem{
+    margin-top: 12%;
+}
