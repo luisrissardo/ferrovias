@@ -104,8 +104,8 @@ body{
     text-shadow: 2px 2px 4px black;
 }
 #historia{
-    height: 110vh;
-    background-color: wheat;
+    height: 100vh;
+    background-color: antiquewhite;
 }
 .linea{
     width: 20%;
@@ -170,7 +170,4 @@ body{
 }
 .footer{
     text-align: center;
-}
-#inimagem{
-    margin-top: 17%;
 }
